@@ -1,0 +1,14 @@
+.content-elemtns {
+    display: block;
+    padding-top: 10px;
+}
+
+.button-content {
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: end;
+}
+
+.button-content .button {
+  color: #ffffff;
+}
